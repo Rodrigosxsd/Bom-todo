@@ -23,8 +23,8 @@ password_element = navegador.find_element('xpath', password_path)
 sleep(5)
 enter_element = navegador.find_element('xpath', enter_path)
 
-login_element.send_keys('pdekra.fandrade')
-password_element.send_keys('n@Pista2022')
+login_element.send_keys('xxxxxx')
+password_element.send_keys('xxxxxx')
 enter_element.click()
 
 
